@@ -1,0 +1,9 @@
+# requirements.txt
+streamlit
+pandas
+anthropic
+google-generativeai
+pdfplumber
+pdf2image
+pytesseract
+plotly
